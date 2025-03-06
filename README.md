@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on React, Django, Rust, Go<br>🤝 I’m looking for help with Nextjs<br>🌱 I’m currently learning Go<br>💬 Ask me about anything
 
